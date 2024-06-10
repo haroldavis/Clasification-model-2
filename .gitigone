@@ -1,0 +1,3 @@
+data/pedidos_entrenar.csv
+data/pedidos_predecir.csv
+catboost_info
